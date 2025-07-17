@@ -6,7 +6,7 @@
 
 
 **Project Title:EDA on Walmart Sales using MySQL**: The Walmart sales dataset is a **CSV file** obtained from **Kaggle**. I performed **data cleaning and feature engineering** to prepare the data for meaningful exploration and interpretation. The master table has been uploaded for reference.
-**KeyPoints: **
+**KeyPoints:**
 - Cleaned and imported the dataset into MySQL for structured storage and analysis.
 
 - Performed exploratory data analysis (EDA) using SQL queries to uncover key sales trends, seasonal patterns, and store-wise performance.
